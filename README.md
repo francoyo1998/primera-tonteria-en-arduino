@@ -5,14 +5,14 @@ English
 
 Connected to a 7-segment display as follows:
 
-bot = Lower segment.
-boti = Left lower segment.
+bot = Lower segment.<br/>
+boti = Left lower segment.<br/>
 botd = Right lower segment.
 
 mid = Middle segment.
 
-top = Upper segment.
-topi = Left upper segment.
+top = Upper segment.<br/>
+topi = Left upper segment.<br/>
 topd = Right upper segment.
 
 Español
@@ -20,12 +20,12 @@ Español
 
 Conectar a un display de 7 segmentos de la siguiente forma:
 
-bot = Segmento inferior
-boti = Segmento inferior izquierdo.
+bot = Segmento inferior.<br/>
+boti = Segmento inferior izquierdo.<br/>
 botd = Segmento inferior derecho.
 
 mid = Segmento medio.
 
-top = Segmento superior.
-topi = Segmento superior izquierdo.
+top = Segmento superior.<br/>
+topi = Segmento superior izquierdo.<br/>
 topd = Segmento superior derecho.
