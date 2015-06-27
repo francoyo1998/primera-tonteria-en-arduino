@@ -5,9 +5,9 @@ English
 
 Connected to a 7-segment display as follows:
 
-bot Lower segment.
-botiLeft lower segment.
-botd Right lower segment.
+bot = Lower segment.
+boti = Left lower segment.
+botd = Right lower segment.
 
 mid = Middle segment.
 
